@@ -1,19 +1,56 @@
-<div style="text-align: center; font-size: 1.25em; border:1px solid #ffff66;background-color:#ffffcc;padding:10px">
+<!-- <div style="text-align: center; font-size: 1.25em; border:1px solid #ffff66;background-color:#ffffcc;padding:10px">
 '''Welcome to <span class="plainlinks">[http://en.wikipedia.org/wiki/Wikipedia Wikipedia]'''</span>
 
 The free encyclopedia that anyone can edit
 
 This edition has '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]''' Wikipedia articles in the <span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo language]'''</span>
-</div>
+</div> -->
 
+<div id="mainpage"></div>
+<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
+|style="width:56%;color:#000"|
+{|style="width:280px;border:solid 0px;background:none"
+|-
+|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000"><!-- Welcome to [http://en.wikipedia.org/wiki/Wikipedia Wikipedia] --> Imela bia na Wikipedia ndi Igbo,</div>
+<div style="top:+0.2em;font-size: 95%">obu encyclopedia inwere ike inweta [http://en.wikipedia.org/wiki/Wikipedia:Introduction nke&nbsp;aka&nbsp;gi na&nbsp;akwughi&nbsp;ugwo].</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Articles na kena n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]'''</div>
+|}
+<!-- |style="width:30%;text-align:center;white-space:nowrap;color:#000"|
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Welcome to [http://en.wikipedia.org/wiki/Wikipedia Wikipedia],</div>
+<div style="top:+0.2em;font-size: 95%">the free encyclopedia that [http://en.wikipedia.org/wiki/Wikipedia:Introduction anyone&nbsp;can&nbsp;edit].</div>
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">This edition has '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]''' Wikipedia articles in the <span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo language]'''</div> -->
 
-If you speak this language and think it would be cool to have your own Encyclopedia then '''you''' can make it.
+<!-- Most Done Pages -->
+|style="width:11%;font-size:95%;color:#000"|
+*[[Owerri]]
+*[[Chineke]]
+|style="width:11%;font-size:95%"|
+*[[Biafra]]
+|style="width:11%;font-size:95%"|
+*[[Bible]]
+|}<!-- End Most Done -->
 
-'''''Go ahead. <span class="plainlinks">[http://ig.wikipedia.org/w/index.php?title=Main_Page&action=edit Translate this page]</span> for ''ndi igbo (the Igbo people)'' and start working on your Encyclopedia.'''
+<span class="plainlinks">[http://ig.wikipedia.org/w/index.php?title=Main_Page&action=edit Translate this page]</span> for ''ndi igbo (the Igbo people)'' and start working on your Encyclopedia.'''
+<!-- End of header section / beginning of left-column -->
+{|style="border-spacing:8px;margin:0px -8px"
+|class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
+{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
+! <h2 style="margin:0;background-color:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Nye aka - Help</h2>
+|-
+|style="color:#000"|Onye nasu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndi Igbo di nma, o nye.<br /><br />First article in the Igbo Wikipedia: [[Chineke]] 
 
-First article in the Igbo Wikipedia: [[Chineke]] 
-
-'''Other pages''':
+<br><inputbox>
+type=create
+width=45
+</inputbox>
+|-
+|}<!-- Start of right-column -->
+|class="MainPageBG" style="width:45%;border:1px solid #cedff2;background-color:#f5faff;vertical-align:top"|
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
+! <h2 style="margin:0;background-color:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">Me iku - Needing Expansion</h2>
+|-
+|style="color:#000"|'''Other pages''':
 * [[Ìgbo]]
 * [[Chinua Achebe]]
 * [[Owerri]]
@@ -27,20 +64,12 @@ First article in the Igbo Wikipedia: [[Chineke]]
 * [[Bible]]
 * [[Wikipedia:Community Portal]]
 * [[Wikipedia:Sandbox]]
-
-{| width="60%" style="border:1px solid black"
-|
-<inputbox>
-type=create
-width=45
-</inputbox>
+|-
+|}
 |}
 
-<div style="border:1px solid #ffff66;background-color:#ffffcc;padding:10px">
-[http://www.wikipedia.org For more information go to the main website]<br />
-'''Other wikis''':<br />
-<small>[http://meta.wikipedia.org Meta-Wikipedia/Meta-Vicipaedia] | [http://wiktionary.org Wikitonary/Victionaria] | [http://wikibooks.org Wikibooks/Vicilibraria] | [http://wikiquote.org Wikiquote/Viciquotas] | [http://wikisource.org Wikisource]</small>
-</div>
+==Wikipedia's sister projects==
+{{WikipediaSister}}<!--Template:WikipediaSister-->
 
 ==Other African-language Wikipedias that are not among large ones==
 [[:aa:|Afar]]&nbsp;·
@@ -82,6 +111,6 @@ width=45
 [[:ts:|Xitsonga]]&nbsp;·
 [[:yo:|Yorùbá]]&nbsp;·
 (For other large Wikipedias, look into the side-bar.)
-
+__NOTOC__
 <!-- interwikis to large Wikipedias (more that 10,000 articles) -->
 [[ar:]][[id:]][[ms:]][[bg:]][[ca:]][[cs:]][[da:]][[de:]][[et:]][[el:]][[en:]][[es:]][[eo:]][[fa:]][[fr:]][[gl:]][[ko:]][[he:]][[hr:]][[io:]][[is:]][[it:]][[lt:]][[hu:]][[nl:]][[ja:]][[no:]][[nn:]][[pl:]][[pt:]][[ro:]][[ru:]][[sk:]][[sl:]][[sr:]][[fi:]][[sv:]][[th:]][[tr:]][[uk:]][[zh:]]
