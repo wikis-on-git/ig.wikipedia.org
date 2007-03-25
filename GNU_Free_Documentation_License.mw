@@ -1,0 +1,162 @@
+<!-- {{selfref|For the full text of the license, see [[Wikipedia:Text of the GNU Free Documentation License]]}}
+{{redirect|GFDL|the division of NOAA|Geophysical Fluid Dynamics Laboratory}} GFDL (disambiguation) exists too.  If there ever becomes a third meaning for GFDL, this link should point back to that. -->
+[[Image:Heckert GNU white.svg|thumb|200px|right|GNU logo (a stylized [[Wildebeest|gnu]])]]
+The '''GNU Free Documentation License''' ('''GNU FDL''' or simply '''GFDL''') is a [[copyleft]] [[license]] for free documentation, designed by the [[Free Software Foundation]] (FSF) for the [[GNU]] project. It is the counterpart to the [[GNU GPL]] that gives readers the same rights to copy, redistribute and modify a work and requires all copies and derivatives to be available under the same license. Copies may also be sold commercially, but if produced in larger quantities (greater than 100) then the original document or source code must be made available to the work's recipient.
+
+The license was designed for [[manual]]s, textbooks, other reference and instructional materials, and documentation which often accompanies GPL software. However, it can be used for any text-based work, regardless of subject matter. 
+
+== Secondary sections ==
+The license explicitly separates any kind of "Document" from "Secondary Sections", which may not be integrated with the Document, but exist as front-matter materials or appendices. Secondary sections can contain information regarding the author's or publisher's relationship to the subject matter, but not any subject matter itself. While the Document itself is wholly editable, and is essentially covered by a license equivalent to (but both-ways incompatible with) the [[GNU General Public License]], some of the secondary sections have various restrictions designed primarily to deal with proper attribution to previous authors.
+
+Specifically, the authors of prior versions have to be acknowledged and certain "invariant sections" specified by the original author and dealing with his or her relationship to the subject matter may not be changed. If the material is modified, its title has to be changed (unless the prior authors give permission to retain the title). The license also has provisions for the handling of front-cover and back-cover texts of books, as well as for "History", "Acknowledgements", "Dedications" and "Endorsements" sections.
+
+== Commercial redistribution ==
+The GFDL requires the ability to "copy and distribute the Document in any medium, either commercially or noncommercially" and therefore is incompatible with material that excludes commercial re-use. Material that restricts commercial re-use is incompatible with the license and cannot be incorporated into the work. However, incorporating such restricted material may be [[fair use]] under United States copyright law and does not need to be licensed to fall within the GFDL if such fair use is covered by all potential subsequent uses. One example of such liberal and commercial fair use is [[parody]].<!-- Note that a "fair use" in the United States might well be considered an infringing use under the copyright laws of other countries. -->
+
+==Criticism of the GFDL==
+The [[Debian]] project and Nathanael Nerode have raised objection.<ref>[http://people.debian.org/~srivasta/Position_Statement.xhtml http://people.debian.org/~srivasta/Position_Statement.xhtml]</ref> Debian developers eventually voted to consider works licensed under the GFDL to comply with their [[Debian Free Software Guidelines]] provided the invariant section clauses are not used.<ref>[http://www.debian.org/vote/2006/vote_001 http://www.debian.org/vote/2006/vote_001]</ref> These critics recommend the use of alternate licenses such as the [[share-alike]] [[Creative Commons licenses]], the [[BSD Documentation License]], or even the GNU GPL. They consider the GFDL a non-free license. The reasons for this are that the GFDL allows "invariant" text which cannot be modified or removed, and that its prohibition against [[digital rights management]] (DRM) systems applies to valid usages, like for "private copies made and not distributed".<ref>[http://home.twcny.rr.com/nerode/neroden/fdl.html http://home.twcny.rr.com/nerode/neroden/fdl.html]</ref>
+
+===Overly broad DRM clause===
+The GNU FDL contains the statement:
+
+{{quotation|You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute.}}
+
+A criticism of this language is that it is too broad, because it applies to private copies made but not distributed. This means that a licensee is not allowed to save document copies "made" in a proprietary file format or using encryption.
+
+In 2003, [[Richard Stallman]] [http://lists.debian.org/debian-legal/2003/09/msg00212.html said] about the above sentence on the [http://lists.debian.org/debian-legal debian-legal] mailing list:
+
+{{quotation|This means that you cannot publish them under DRM systems to restrict the possessors of the copies. It isn't supposed to refer to use of encryption or file access control on your own copy. I will talk with our lawyer and see if that sentence needs to be clarified.}}
+
+===Invariant sections===
+A GNU FDL work can quickly be encumbered because a new, different, title must be given and a list of previous titles must be kept. This could lead to the situation where there are a whole series of title pages, and dedications, in each and every copy of the book if it has a long lineage. These pages cannot ''ever'' be removed, at least not until the work enters the [[public domain]] after [[copyright]] expires.
+
+[[Richard Stallman]] [http://lists.debian.org/debian-legal/2003/08/msg00807.html said] about invariant sections on the [http://lists.debian.org/debian-legal debian-legal] mailing list:
+
+{{quotation|The goal of invariant sections, ever since the 80s when we first made the GNU Manifesto an invariant section in the Emacs Manual, was to make sure they could not be removed. Specifically, to make sure that distributors of Emacs that also distribute non-free software could not remove the statements of our philosophy, which they might think of doing because those statements criticize their actions.}}
+
+===GPL incompatible in both directions===
+The GNU FDL is incompatible in both directions with the GPL: that is GNU FDL material cannot be put into GPL code and GPL code cannot be put into a GNU FDL manual. Because of this, code samples are often [[dual license|dual-licensed]] so that they may appear in documentation and can be incorporated into a free software program.
+
+At the June 22nd and 23rd international GPLv3 conference in Barcelona, Moglen hinted that a future version of the GPL could be made suitable for documentation:<ref>[http://fsfeurope.org/projects/gplv3/barcelona-moglen-transcript#lgpl http://fsfeurope.org/projects/gplv3/barcelona-moglen-transcript#lgpl]</ref>
+
+{{quotation|By expressing LGPL as just an additional permission on top of GPL we simplify our licensing landscape drastically. It's like for physics getting rid of a force, right? We just unified [[electro-weak]], ok? The [[grand unified field theory]] still escapes us until the document licences too are just additional permissions on top of GPL. I don't know how we'll ever get there, that's gravity, it's really hard.}}
+
+===Burdens when printing===
+The GNU FDL requires that licensees, when printing a document covered by the license, must also include "this License, the copyright notices, and the license notice saying this License applies to the Document". This means that if a licensee prints out a copy of an article whose text is covered under the GNU FDL, he or she must also include a copyright notice and a physical printout of the GNU FDL, which is a significantly large document in itself.
+
+
+
+===Transparent formats===
+The definition of a "transparent" format is complicated, and may be difficult to apply. For example, drawings are required to be in a format that allows them to be revised straightforwardly with "some widely available drawing editor." The definition of "widely available" may be difficult to interpret, and may change over time, since, e.g., the open-source [[Inkscape]] editor is rapidly maturing, but has not yet reached version 1.0. This section, which was rewritten somewhat between versions 1.1 and 1.2 of the license, uses the terms "widely available" and "proprietary" inconsistently and without defining them. According to a strict interpretation of the license, the references to "generic text editors" could be interpreted as ruling out a format used by an open-source word-processor such as [[Abiword]]; according to a loose interpretation, however, [[Microsoft Office Word|Microsoft Word]] .doc format could qualify as transparent, since a subset of .doc files can be edited perfectly using [[OpenOffice.org]], and the format therefore is not one "that can be read and edited only by proprietary word processors."
+
+== History ==
+The FDL was released in draft form for feedback in late 1999. After revisions, version 1.1 was issued in March 2000, and version 1.2 in November 2002. The current state of the license is version 1.2.
+
+The first discussion draft of the GNU Free Documentation License version 2 was released on [[September 26]] [[2006]], along with a draft of the new [[GNU Simpler Free Documentation License]].
+
+The new draft of the GNU FDL includes a number of improvements, such as new terms crafted during the GPLv3 process to improve internationalization, clarifications to help people applying the license to audio and video, and relaxed requirements for using an excerpt from a work.
+
+The new proposed GNU Simpler Free Documentation License has no requirements to maintain Cover Texts and Invariant Sections. This will provide a simpler licensing option for authors who do not wish to use these features in the GNU FDL.
+
+== Other free content licenses ==
+Some of these were developed independently of the GNU FDL, while others were developed in response to perceived flaws in the GNU FDL.
+* [[FreeBSD Documentation License]]
+* [[Creative Commons licenses]]
+* [[Design Science License]]
+* [[Free Art license]]
+* [[Open Content License]]
+* [[Open Publication License]]
+
+== See also ==
+* [[BSD license]]
+* [[Copyright]]
+* [[Copyleft]]
+* [[Free software license]]
+* [[GNU]]
+* [[Open content]]
+* [[Share-alike]]
+* [[Software licensing]] <!-- should the above "alternatives" list be moved to [[software licensing]] ? -->
+* [[Non-commercial educational]]
+
+==Notes==
+{{reflist}}
+
+== External links ==
+* [http://www.gnu.org/copyleft/fdl.html GFDL official text]
+* [http://www.fsf.org/licenses/fdl.html The GNU Free Documentation License]
+* [http://www.gnu.org/philosophy/free-doc.html Free Software and Free Manuals]
+* [http://people.debian.org/~srivasta/Position_Statement.xhtml Draft of Debian position statement about the GFDL]
+* [http://home.twcny.rr.com/nerode/neroden/fdl.html Why You Shouldn't Use the GNU FDL]
+* [[wikitravel:Wikitravel:Why Wikitravel isn't GFDL|Why Wikitravel isn't GFDL]]: Problems with using the GFDL for short printed texts
+* [http://www.gnu.org/encyclopedia/ The Free Universal Encyclopedia And Learning Resource]
+* [http://gplv3.fsf.org/doclic-dd1-guide.html Guide to the new drafts of documentation licenses]
+
+[[Category:GFDL| ]]
+
+[[af:GNU-lisensie vir vrye dokumentasie]]
+[[als:GNU-Lizenz für freie Dokumentation]]
+[[ar:رخصة جنو للوثائق الحرة]]
+[[ast:GNU FDL]]
+[[zh-min-nan:GNU Chū-iû Bûn-kiāⁿ Hí-khó-su]]
+[[be:GNU Free Documentation License]]
+[[bs:GNU licenca za slobodnu dokumentaciju]]
+[[bg:Лиценз за свободна документация на ГНУ]]
+[[ca:Llicència de documentació lliure de GNU]]
+[[cs:GNU Free Documentation License]]
+[[da:GNU Free Documentation License]]
+[[de:GNU-Lizenz für freie Dokumentation]]
+[[et:GNU FDL]]
+[[el:Άδεια Ελεύθερης Τεκμηρίωσης GNU]]
+[[es:Licencia de documentación libre GNU]]
+[[eo:GFDL]]
+[[eu:GNU Free Documentation License]]
+[[fa:مجوز مستندات آزاد گنو]]
+[[fo:GNU Free Documentation License]]
+[[fr:Licence de documentation libre GNU]]
+[[fy:GNU/FDL]]
+[[gl:Licenza de Documentación Libre GNU]]
+[[gu:GFDL]]
+[[ko:GNU 자유 문서 사용 허가서]]
+[[id:GFDL]]
+[[ia:Licentia GNU pro Documentation Libere]]
+[[is:Frjálsa GNU-handbókarleyfið]]
+[[it:GNU Free Documentation License]]
+[[he:הרשיון לשימוש חופשי במסמכים של GNU]]
+[[ka:GNU Free Documentation License]]
+[[csb:GNU Free Documentation License]]
+[[ku:Lîsansa Belgekirina Azada GNU]]
+[[lv:GNU Free Documentation License]]
+[[lb:GNU Free Documentation License]]
+[[lt:GNU FDL]]
+[[li:GNU Free Documentation License]]
+[[lmo:Licenza da ducümentazziun líbera GNU]]
+[[hu:GNU Free Documentation License]]
+[[ms:Lesen Dokumentasi Bebas GNU]]
+[[nl:GNU-licentie voor vrije documentatie]]
+[[nds-nl:GNU-FDL]]
+[[ja:GNU Free Documentation License]]
+[[no:GNU fri dokumentasjonslisens]]
+[[nn:GNU Free Documentation License]]
+[[oc:Licéncia de documentacion liura GNU]]
+[[nds:GNU-FDL]]
+[[pl:GNU Free Documentation License]]
+[[pt:GNU Free Documentation License]]
+[[ru:GNU Free Documentation License]]
+[[sc:GNU Free Documentation License]]
+[[sco:GFDL]]
+[[simple:GNU Free Documentation License]]
+[[sl:Dovoljenje GNU za rabo proste dokumentacije]]
+[[sr:ГНУ-ова Лиценца за слободну документацију]]
+[[su:Lisénsi Dokumén Bébas GNU]]
+[[fi:GNU Free Documentation License]]
+[[sv:GFDL]]
+[[tl:GNU Free Documentation License]]
+[[tt:GNU/İrekle İstälek Röxsätnämäse]]
+[[th:GNU Free Documentation License]]
+[[vi:Giấy phép Tài liệu Tự do GNU]]
+[[tr:GNU Özgür Belgeleme Lisansı]]
+[[uk:GNU Free Documentation License]]
+[[ur:جی این یو آزاد مسوداتی اجازہ]]
+[[wa:Licince di libe documintåcion di GNU]]
+[[vls:GFDL]]
+[[zh:GNU自由文档许可证]]
