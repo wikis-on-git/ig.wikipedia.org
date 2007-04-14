@@ -1,4 +1,5 @@
-<div id="mainpage">''Encyclopedia anyi lile''</div>
+<h1 id="masthead" class="plainlinks" style="display: none">''Encyclopedia anyi lile''<span style="color: dimgray; font-style: normal">Ndi Igbo</span> <!-- [http://wikimediafoundation.org/wiki/Home http://upload.wikimedia.org/wikipedia/meta/9/9f/Wikimedia-button1.png] --></h1>
+<div id="mainpage"></div>
 <!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
 {|style="width:280px;border:solid 0px;background:none"
