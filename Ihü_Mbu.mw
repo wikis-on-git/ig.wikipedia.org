@@ -1,25 +1,13 @@
-<!-- <div style="text-align: center; font-size: 1.25em; border:1px solid #ffff66;background-color:#ffffcc;padding:10px">
-'''Welcome to <span class="plainlinks">[[Wikipedia Wikipedia]]'''</span>
-
-The free [[encyclopedia]] that anyone can edit
-
-This edition has '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]''' [[Wikipedia]] articles in the <span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo language]'''</span>
-</div> -->
-<div id="mainpage"></div>
+<div id="mainpage">''Encyclopedia anyi lile''</div>
 <!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
 {|style="width:280px;border:solid 0px;background:none"
 |-
 |style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000"><!-- Welcome to [http://en.wikipedia.org/wiki/Wikipedia Wikipedia] --> Imela bia na [[Wikipedia]] ndi [[Igbo]],</div>
+<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Imela bia na [[Wikipedia]] ndi [[Igbo]],</div>
 <div style="top:+0.2em;font-size: 95%">obu encyclopedia inwere ike inweta [http://en.wikipedia.org/wiki/Wikipedia:Introduction nke&nbsp;aka&nbsp;gi na&nbsp;akwughi&nbsp;ugwo].</div>
 <div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Articles n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]'''</div>
 |}
-<!-- |style="width:30%;text-align:center;white-space:nowrap;color:#000"|
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Welcome to [http://en.wikipedia.org/wiki/Wikipedia Wikipedia],</div>
-<div style="top:+0.2em;font-size: 95%">the free encyclopedia that [http://en.wikipedia.org/wiki/Wikipedia:Introduction anyone&nbsp;can&nbsp;edit].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">This edition has '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]''' Wikipedia articles in the <span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo language]'''</div> -->
-
 <!-- Most Done Pages -->
 |style="width:11%;font-size:95%;color:#000"|
 *[[Wikipedia:Community Portal|Community]]
@@ -31,8 +19,7 @@ This edition has '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]''' [[Wikipedia]] a
 *[[Ezigbo_ulo_uka_Jesu|Ezigbo...]]
 *[[Owerri]]
 |}<!-- End Most Done -->
-
-<span class="plainlinks">[http://ig.wikipedia.org/w/index.php?title=Main_Page&action=edit Translate this page]</span> for ''ndi igbo (the Igbo people)'' and start working on your Encyclopedia.'''
+{{Banner Main page}}
 <!-- End of header section / beginning of left-column -->
 {|style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
@@ -59,58 +46,19 @@ width=45
 * [[Biafra]]
 * [[Ojukwụ]]
 * [[Enugu]]
-*[[Naigeria]]
+* [[Naigeria]]
 * [[Germany]]
 * [[Jisọs Kraịst]]
 * [[Bible]]
 * [[Igbo-ukwu]]
 |}
 |}
-
 ==Project nwanne Wikipedia== <!--Wikipedia's sister projects-->
-{{WikipediaSister}}<!--Template:WikipediaSister-->
-
-==Asusu Africa ozo n'abughi ke iku==<!--Other African-language Wikipedias that are not among large ones-->
-[[:aa:|Afar]]&nbsp;·
-[[:af:|Afrikaans]]&nbsp;·
-[[:ak:|Akan]]&nbsp;·
-[[:am:|አማርኛ]]&nbsp;·
-[[:bm:|Bamanankan]]&nbsp;·
-[[:ny:|Chi-Chewa]]&nbsp;·
-[[:sn:|chiShona]]&nbsp;·
-[[:tum:|chiTumbuka]]&nbsp;·
-[[:ee:|Ɛʋɛ]]&nbsp;·
-[[:ff:|Fulfude]]&nbsp;·
-[[:ki:|Gĩkũyũ]]&nbsp;·
-[[:ha:|هَوُسَ]]&nbsp;·
-[[:xh:|isiXhosa]]&nbsp;·
-[[:zu:|isiZulu]]&nbsp;·
-[[:kr:|Kanuri]]&nbsp;·
-[[:rw:|Kinyarwanda]]&nbsp;·
-[[:rn:|Kirundi]]&nbsp;·
-[[:sw:|Kiswahili]]&nbsp;·
-[[:kg:|Kongo]]&nbsp;·
-[[:kj:|Kuanyama]]&nbsp;·
-[[:ln:|Lingala]]&nbsp;·
-[[:lg:|Luganda]]&nbsp;·
-[[:mg:|Malagasy]]&nbsp;·
-[[:mt:|Malti]]&nbsp;·
-[[:om:|Oromoo]]&nbsp;·
-[[:ng:|Oshiwambo]]&nbsp;·
-[[:hz:|Otsiherero]]&nbsp;·
-[[:sg:|Sängö]]&nbsp;·
-[[:st:|seSotho]]&nbsp;·
-[[:tn:|Setswana]]&nbsp;·
-[[:ss:|SiSwati]]&nbsp;·
-[[:so:|Soomaaliga]]&nbsp;·
-[[:ti:|ትግርኛ]]&nbsp;·
-[[:ve:|Tshivenda]]&nbsp;·
-[[:tw:|Twi]]&nbsp;·
-[[:wo:|Wolof]]&nbsp;·
-[[:ts:|Xitsonga]]&nbsp;·
-[[:yo:|Yorùbá]]&nbsp;·
-(For other large Wikipedias, look in the side-bar.)
-__NOTOC__
+{{NwanneWikipedia}}<!--Template:WikipediaSister-->
+==Asusu Africa ozo n'abughi nke uku==<!--Other African-language Wikipedias that are not among large ones-->
+{{Asusu nwanne Wikipedia Africa}}
+</div>
+</div>__NOTOC__ __NOEDITSECTION__
 <!-- interwikis to large Wikipedias (more that 10,000 articles) -->
 <!--why so many?--><!--[[ar:]][[id:]][[ms:]][[bg:]][[ca:]][[cs:]][[da:]][[de:]][[et:]][[el:]][[en:]][[es:]][[eo:]][[fa:]][[fr:]][[gl:]][[ko:]][[he:]][[hr:]][[io:]][[is:]][[it:]][[lt:]][[hu:]][[nl:]][[ja:]][[no:]][[nn:]][[pl:]][[pt:]][[ro:]][[ru:]][[sk:]][[sl:]][[sr:]][[fi:]][[sv:]][[th:]][[tr:]][[uk:]][[zh:]]-->
 [[br:]][[zh:]][[sr:]][[de:]][[en:]][[es:]][[fr:]][[io:]][[it:]][[ja:]][[nl:]][[nn:]][[pt:]][[ru:]][[fi:]][[sv:]][[tr:]][[yo:]]
