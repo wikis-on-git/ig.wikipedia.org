@@ -1,6 +1,6 @@
-<div id="whiteout" style= "background-color:#ffffff; position:absolute; z-index:100; right:30px; text-align:right; top:0px; width:809px; height:34px; font-size: 11px;">''Encyclopedia nke anyi lile''.
+<div id="whiteout" style= "background-color:green; position:absolute; z-index:100; right:30px; text-align:right; top:0px; width:809px; height:34px; font-size: 11px;">''Encyclopedia nke anyi lile''.
 </div>
-<!--div id="mainpage" style= "position:absolute; z-index:100; center; top:13px;"-->
+<div id="mainpage" style= "position:absolute; z-index:100; center;"> <!-- Note: this div screws up "Preview" - comment it out before previewing, replace it when saving -->
 <!-- Beginning of header section -->
 {|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
