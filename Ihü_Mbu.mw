@@ -11,17 +11,9 @@
 <div style="top:+0.2em;font-size: 95%">obu encyclopedia inwere ike inweta [http://en.wikipedia.org/wiki/Wikipedia:Introduction nke&nbsp;aka&nbsp;gi na&nbsp;akwughi&nbsp;ugwo].</div>
 <div id="articlecount" style="width:100%;text-align:center;font-size:85%;">Articles n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Allpages|{{NUMBEROFARTICLES}}]]'''</div>
 |}
-<!-- Most Done Pages -->
-|style="width:11%;font-size:95%;color:#000"|
-*[[Wikipedia:Community Portal|Community]]
-*[[Wikipedia:Sandbox|Sandbox]]
-|style="width:11%;font-size:95%"|
-*[[Biafra]]
-*[[Chineke]]
-|style="width:11%;font-size:95%"|
-*[[Ezigbo_ulo_uka_Jesu|Ezigbo...]]
-*[[Owerri]]
-|}<!-- End Most Done -->
+|<div class="toccolours" style="position:absolute; right:40px">[[Image:Kyokpae_banner.png|350px]]</div>
+|}
+
 {{Banner Main page}}
 <!-- End of header section / beginning of left-column -->
 {|style="border-spacing:8px;margin:0px -8px"
@@ -39,17 +31,30 @@ width=45
 If you have questions or comments please visit the '''[[Wikipedia:Community Portal|Community Portal]]''' or direct them to the '''[[Help:Contents|Help section]].'''
 |-
 |}<!-- Start of right-column -->
-|class="MainPageBG" style="width:45%;border:1px solid #cedff2;background-color:#f5faff;vertical-align:top"|
+|class="MainPageBG" style="width:45%;border:1px solid #abd5f5;background-color:#f5faff;vertical-align:top"|
+
+<div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 0.5em 0.2em 0.5em; font-size:120%; font-weight:bold;">'''Featured Content'''</div>
+<div style="border-bottom:1px solid #abd5f5; padding:0.4em 1em 0.3em 1em; -moz-column-count:3; column-count:3;">
+<!-- Most Done Pages -->
+<span style="width:11%;font-size:95%;color:#000">
+*[[Wikipedia:Community Portal|Community]]
+*[[Wikipedia:Sandbox|Sandbox]]</span>
+<span style="width:11%;font-size:95%">
+*[[Biafra]]
+*[[Chineke]]</span>
+<span style="width:11%;font-size:95%">
+*[[Ezigbo_ulo_uka_Jesu|Ezigbo...]]
+*[[Owerri]]
+</span>
+<!-- End Most Done -->
+</div>
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
-! <h2 style="margin:0;background-color:#cedff2;font-size:120%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">Mee ukwu - Needing Expansion</h2>
+! <h2 style="margin:0;background-color:#cedff2;font-size:110%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">Mee ukwu - Needing Expansion</h2>
 |-
 |style="color:#000"|'''Pages özö - Other pages''':
 * [[Ìgbo]]
 * [[Chinua Achebe]]
-* [[Owerri]]
 * [[Imo State]]
-* [[Biafra]]
-* [[Ojukwụ]]
 * [[Enugu]]
 * [[Naigeria]]
 * [[Germany]]
