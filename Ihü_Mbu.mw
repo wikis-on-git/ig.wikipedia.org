@@ -36,7 +36,14 @@ If you have questions or comments please visit the '''[[Wikipedia:Community Port
 <div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 0.5em 0.2em 0.5em; font-size:120%; font-weight:bold;">'''Ihe di mma - Featured Content'''</div>
 <div style="border-bottom:1px solid #abd5f5; padding:0.4em 1em 0.3em 1em; -moz-column-count:3; column-count:3;">
 <!-- Most Done Pages -->
-<span style="width:11%;font-size:95%;color:#000">
+ {| cellpadding="0" cellspacing="0" style="margin: 0em 0em 0em 0; width: 100%"
+ |-
+ |<li> [[Wikipedia:Community Portal|Community]] || <li> [[Biafra]] || <li> [[Ezigbo_ulo_uka_Jesu]]
+ |-
+ |<li> [[Wikipedia:Sandbox|Sandbox]] || <li> [[Chineke]] || <li> [[Chinua Achebe]]
+ |}
+
+<!-- span style="width:100%;font-size:95%;color:#000">
 *[[Wikipedia:Community Portal|Community]]
 *[[Wikipedia:Sandbox|Sandbox]]</span>
 <span style="width:11%;font-size:95%">
@@ -44,23 +51,28 @@ If you have questions or comments please visit the '''[[Wikipedia:Community Port
 *[[Chineke]]</span>
 <span style="width:11%;font-size:95%">
 *[[Ezigbo_ulo_uka_Jesu|Ezigbo...]]
-*[[Owerri]]
-</span>
+*[[Chinua Achebe]] 
+</span -->
+
 <!-- End Most Done -->
+
 </div>
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
 ! <h2 style="margin:0;background-color:#cedff2;font-size:110%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">Mee ukwu - Needing Expansion</h2>
 |-
 |style="color:#000"|'''Pages özö - Other pages''':
-* [[Ìgbo]]
-* [[Chinua Achebe]]
-* [[Imo State]]
-* [[Enugu]]
-* [[Naigeria]]
-* [[Germany]]
-* [[Jisọs Kraịst]]
-* [[Bible]]
-* [[Igbo-ukwu]]
+
+ {|
+ |-
+ |<li> [[Ndi Igbo]] ||<li> [[Chukwu]]
+ |-
+ |<li> [[Owerri]] ||<li> [[Bekee]]
+ |-
+ |<li> [[Umaru Yar'Adua]] ||<li> [[Virginia Etiaba]]
+ |-
+ |<li> [[People's_Democratic_Party]] ||<li> [[Igbo-ukwu]]
+ |}
+
 |}
 |}
 ==Project nwanne Wikipedia== <!--Wikipedia's sister projects-->
