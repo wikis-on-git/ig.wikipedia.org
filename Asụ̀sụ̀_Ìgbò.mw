@@ -1,6 +1,44 @@
-Sụọ Ìgbo
+'''Asusu Igbo''' bu asusu ndi Igbo di su na ezigbo wo. Odi ike i su ma ibu onye obia. Nke bu mkpụrụedemede asusu wo:
 
-Mkpụrụedemede
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; border: 1px #aaa solid; border-collapse: collapse; font-family: Doulos SIL, GentiumAlt, Gentium, Arial Unicode MS, Lucida Sans Unicode; text-align: center"
+!Igbo Alphabet<br> (''Onwu'') !! align="center"|[[International Phonetic Alphabet|IPA]] !! !!  align="center"|Igbo Alphabet<br> (''Onwu'') !! align="center"|[[International Phonetic Alphabet|IPA]]
+|-
+| a || /a/ || || {{unicode|ọ}} || {{IPA|/ɔ/}}
+|-
+| b || /b/ || || p ||/p/
+|-
+| gb|| {{IPA|/ɓ/}} ~ {{IPA|/ɡ͡b/}} || || kp || {{IPA|/ɓ̥/}} ~ {{IPA|/k͡p/}}
+|-
+| d || /d/ || || r || {{IPA|/ɾ/}}
+|-
+| e || /e/ || || s || /s/
+|-
+| f || /f/ || || sh || {{IPA|/ʃ/}}
+|-
+| g || {{IPA|/ɡ/}} || || t || /t/
+|-
+| gh || {{IPA|/ɣ/}} || || u || /u/
+|-
+| h || /h/ || ||{{unicode|ụ}} || {{IPA|/ʊ/}}
+|-
+| i || /i/ || || v || /v/
+|-
+| {{unicode|ị}} || {{IPA|/ɪ/}} || || w || align="center"|/w/
+|-
+| j || {{IPA|/ʤ/}} || || y || /j/
+|-
+| k || /k/ || || z || /z/
+|-
+| l || /l/ || || ch || {{IPA|/ʧ/}}
+|-
+| m || /m/ and {{IPA|/m̩/}} || || gw || {{IPA|/ɡʷ/}}
+|-
+| n || /n/ and {{IPA|/n̩/}} || || kw || {{IPA|/kʷ/}}
+|-
+| {{unicode|ṅ}} || {{IPA|/ŋ/}} || || nw || {{IPA|/ŋw/}}
+|-
+| o || /o/ || || ny || /nj/
+|}
 
 A    a
 
@@ -72,9 +110,12 @@ Y    y
 
 Z    z
 
-
-----
-*http://www.igboguide.org/index.php?l=vocabulary
 {{stub}}
+==Lee nke ozo==
+* [[Ndi Igbo]]
+
+==Links n'aga n'ezi==
+* [http://www.igboguide.org/index.php?l=vocabulary]
+
 [[Category:Ìgbo]]
 [[en:Igbo language]]
