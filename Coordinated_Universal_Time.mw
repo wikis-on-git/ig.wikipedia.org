@@ -1,0 +1,24 @@
+'''''Coordinated Universal Time''''' na bekee, ('''UTC'''), bu otu adi-iji mata oge a mata n'elu uwa lile. O bu ta ndi mmadu no n'uwa nwe otu wo nwere ike ma ihe oge bu mgbe ha gara obe ozo. Ndi ''[[:en:International Atomic Time|International Atomic Time]]'' bu ndi di lekotawa machine na mee oge ha di mma.<!--wikitable-->
+{| class="toccolours" style="margin: .5em .5em .5em .5em; float: right;"
+|+ Compromise abbreviation
+! source !! abbreviation
+|-
+| English || CUT (coordinated universal time)
+|-
+| French || TUC (temps universel coordonné)
+|-
+| compromise || UTC 
+|}
+
+Ha na guta ihe oge bu mgbe ha lewa otu [[uwa]] di ba anyawu buru-buru, ma otu owa di ba anyi buru. Ikwesiri ma ''time zone'' ino la, gi tinye m'obu mee wefu oke ikwesiri.
+
+<!--wikitable-->
+{{selfref|1=<TABLE class="toccolours" style="text-align: center; margin: 0.5em auto"><TR><TD>Example: '''{{CURRENTDAYNAME}}, {{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} T {{CURRENTTIME}} UTC'''</TD></TR></TABLE>	 
+}}
+
+Ndi no la ''New York'' kwesiri '''wefu ise''' na oge no n'elu. Ndi no na ''[[Naigeria]]'' kwesiri '''tinye otu'''.
+
+{{stub}}
+==Links na aga n'ezi==
+* [http://www.worldtimeserver.com World Time Server]
+[[en:Coordinated Universal Time]]
