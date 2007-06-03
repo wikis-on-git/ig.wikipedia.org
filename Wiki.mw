@@ -23,12 +23,12 @@ The source format, sometimes known as "''[[:en:wikitext|wikitext]]'''", is augme
 
 The reasoning behind this design is that HTML, with its many cryptic tags, is not especially [[:en:human-readable|human-readable]]. Making typical HTML source visible makes the actual text content very hard to read and edit for most users. It is therefore better to promote [[:en:Plain text|plain-text]] editing with a few simple conventions for structure and style.
 
-Many implementations (for example [[:en:Mediawiki|Mediawiki]]) allow users to supply an "edit summary" along with their change. This is a short piece of text (usually one line) summarising the changes made that is not inserted into the article, but is stored along with that revision, allowing users to explain what has been done and why; similar to a log message when committing changes to a [[:en:revision control|revision control]] system.
+Many implementations (for example [[Mediawiki]]) allow users to supply an "edit summary" along with their change. This is a short piece of text (usually one line) summarising the changes made that is not inserted into the article, but is stored along with that revision, allowing users to explain what has been done and why; similar to a log message when committing changes to a [[:en:revision control|revision control]] system.
 
 It is somewhat beneficial that users cannot directly use all the capabilities of HTML, such as [[:en:JavaScript|JavaScript]] and [[:en:Cascading Style Sheets|Cascading Style Sheets]]. Consistency in [[:en:look and feel|look and feel]] is also achieved: In many  wiki implementations, an active hyperlink is exactly as it is shown, unlike in HTML where the invisible hyperlink can have an arbitrary visible [[:en:anchor text|anchor text]].  This goes along with some extra safety for the user: Permitting users to write in unfiltered HTML might allow harmful or annoying code (for example, JavaScript code that prevents the reader from marking part of the text).
 
 {| class="wikitable"
-![[:en:MediaWiki|MediaWiki]] syntax
+![[MediaWiki]] syntax
 !Equivalent HTML
 !Rendered output
 |---- valign="top"
