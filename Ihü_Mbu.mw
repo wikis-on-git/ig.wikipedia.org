@@ -1,6 +1,4 @@
-<!-- div id="whiteout" style= "background-color:#ffffff; position:absolute; z-index:100; text-align:right; left:0px; top:10px; width:100%; right:30px; height:24px; font-size: 11px;">''Encyclopedia nke anyi nile.''&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</div -->
-<!--div id="mainpage" style= "position:absolute; z-index:100; center; top:13px;"--> <!-- Note: this div screws up "Preview" - comment it out before previewing, replace it when saving -->
+
 <!-- Beginning of header section -->
 {|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
@@ -85,5 +83,3 @@ If you have questions or comments please visit the '''[[Wikipedia:Community Port
 [[br:]][[zh:]][[sr:]][[de:]][[en:]][[es:]][[fr:]][[io:]][[it:]][[ja:]][[nl:]][[nn:]][[pt:]][[ru:]][[fi:]][[sv:]][[tr:]][[yo:]]
 
 [[Category:Wikipedia]]
-<!-- interwikis to large Wikipedias (more that 10,000 articles) -->
-<!--[[ar:]][[id:]][[ms:]] [[bg:]][[ca:]][[cs:]] [[da:]][[de:]][[et:]] [[el:]][[en:]][[es:]] [[eo:]][[fa:]][[fr:]] [[gl:]][[ko:]][[he:]] [[hr:]][[io:]][[is:]] [[it:]][[lt:]][[hu:]] [[nl:]][[ja:]][[no:]] [[nn:]][[pl:]][[pt:]] [[ro:]][[ru:]][[sk:]] [[sl:]][[sr:]][[fi:]] [[sv:]][[th:]][[tr:]] [[uk:]][[zh:]]-->
