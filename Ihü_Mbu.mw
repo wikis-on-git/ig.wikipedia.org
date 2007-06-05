@@ -1,4 +1,3 @@
-
 <!-- Beginning of header section -->
 {|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
@@ -9,27 +8,33 @@
 <div style="top:+0.2em;font-size: 95%">obu encyclopedia inwere ike inweta [http://en.wikipedia.org/wiki/Wikipedia:Introduction nke&nbsp;aka&nbsp;gi na&nbsp;akwughi&nbsp;ugwo].</div>
 <div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Allpages|Articles]] n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</div>
 |}
-|<div class="toccolours" style="position:relative; right:5px">[[Image:Kyokpae_banner.png|350px]]</div>
+|<!--div class="toccolours" style="position:relative; right:5px">[[Image:Kyokpae_banner.png|350px]]</div-->
 |}
 
 {{Banner Main page}}
 <!-- End of header section / beginning of left-column -->
 {|style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
-{|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
-! <h2 style="margin:0;background-color:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Nye aka - Help</h2>
-|-
-|style="color:#000"|Onye n'asu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndï Igbo di nma, o nye.<br /><br />First article in the Igbo Wikipedia: [[Chineke]] 
+|class="MainPageBG" style="width:53%; border:1px solid #abd5f5; background-color:#def0fc; vertical-align:top; color:#000"|
 
-<br><inputbox>
-type=create
-width=45
-</inputbox>
+ {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#def0fc"
+ ! <h2 style="margin:0; background-color:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Ama ndi Igbo - Village</h2>
+ |-
+ |style="color:#000; background-color:#fff"|Onye n'asu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndï Igbo di nma, o nye.<br /><br />Direct questions and comments here:
+  {|
+  |-
+  | || || || [[Image:Nuvola_apps_kdmconfig.png|left|thumb|45px|]]<span><ul><li>'''[[Wikipedia:Lounge|Lounge]]''' <li>'''[[Help:Contents|Help section]]'''<li>'''[[Wikimedia:Fundraising|Media]]'''</ul></span>
+  || || || 
+  | || [[Image:Nuvola_apps_edu_languages.png|left|thumb|45px|]] <span><li>'''[[User:Bastique|Bastique]]'''<li>'''[[User:Kerowren|Kerowren]]'''<li>'''[[User:Picaroon9288|Picaroon9288]]'''</span>
+  |}
+ |-
+ |<inputbox>
+ type=create
+ width=45
+ </inputbox>
+ |}
 
-If you have questions or comments please visit the '''[[Wikipedia:Community Portal|Community Portal]]''' or direct them to the '''[[Help:Contents|Help section]].'''
-|-
-|}<!-- Start of right-column -->
-|class="MainPageBG" style="width:45%;border:1px solid #abd5f5;background-color:#f5faff;vertical-align:top"|
+<!-- Start of right-column -->
+|class="MainPageBG" style="width:47%;border:1px solid #abd5f5;background-color:#f5faff;vertical-align:top"|
 
 <div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 0.5em 0.2em 0.5em; font-size:120%; font-weight:bold;">'''Ihe di mma - Featured Content'''</div>
 <div style="border-bottom:1px solid #abd5f5; padding:0.4em 1em 0.3em 1em; -moz-column-count:3; column-count:3;">
