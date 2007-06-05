@@ -1,13 +1,11 @@
 <!-- Beginning of header section -->
 {|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
-|style="width:56%;color:#000"|
-{|style="width:300px;border:solid 0px;background:none"
-|-
-|style="width:300px;text-align:center;white-space:nowrap;color:#000" |
+ |style="width:56%; text-align:center;"|
+ {|style="background:none;" |
 <div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Imela bia na [[Wikipedia]] ndï [[Igbo]],</div>
 <div style="top:+0.2em;font-size: 95%">obu encyclopedia inwere ike inweta [http://en.wikipedia.org/wiki/Wikipedia:Introduction nke&nbsp;aka&nbsp;gi na&nbsp;akwughi&nbsp;ugwo].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Allpages|Articles]] n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</div>
-|}
+<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Allpages|Articles]] n'<span class="plainlinks">'''[http://en.wikipedia.org/wiki/Igbo_language Igbo&nbsp;language]''' ruru '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]'''</div> 
+ |}
 |<!--div class="toccolours" style="position:relative; right:5px">[[Image:Kyokpae_banner.png|350px]]</div-->
 |}
 
@@ -22,7 +20,7 @@
  |style="color:#000; background-color:#fff"|Onye n'asu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndï Igbo di nma, o nye.<br /><br />Direct questions and comments here:
   {|
   |-
-  | [[Image:Nuvola_apps_kdmconfig.png|left|thumb|45px|]] || <span><ul><li>'''[[Wikipedia:Lounge|Lounge]]''' <li>'''[[Help:Contents|Help section]]'''<li>'''[[Wikimedia:Fundraising|Media]]'''</ul></span>
+  | [[Image:Nuvola_apps_kdmconfig.png|left|thumb|45px|]] || <span><ul><li>'''[[Wikipedia:Lounge|Lounge]]'''<li>'''[[Help:Contents|Help section]]'''<li>'''[[Wikimedia:Fundraising|Media]]'''</ul></span>
   || || [[Image:Nuvola_apps_edu_languages.png|left|thumb|45px|]] || <span><li>'''[[User:Bastique|Bastique]]'''<li>'''[[User:Kerowren|Kerowren]]'''<li>'''[[User:Picaroon9288|Picaroon9288]]'''</span>
   |}
  |-
