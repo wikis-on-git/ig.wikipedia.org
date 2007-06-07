@@ -17,11 +17,11 @@
  {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#def0fc"
  ! <h2 style="margin:0; background-color:#cef2e0; font-size:120%; font-weight:bold; border:1px solid #a3bfb1; text-align:left; color:#000; padding:0.2em 0.4em;">Ama ndi Igbo - Village</h2>
  |-
- |style="color:#000; background-color:#fff"|Onye n'asu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndï Igbo di nma, o nye.<br /><br />Direct questions and comments here:
-  {|
+ |style="color:#000; background-color:#fff"|Onye n'asu asusu olu Igbo nwere enyemaka ochoro inye ta Encyclopedia ndï Igbo di nma, o nye.<br /><center>''Questions and comments:''</center>
+  {|style="padding:0em 0em 0em 1em"
   |-
-  | [[Image:Nuvola_apps_kdmconfig.png|left|thumb|45px|]] || <span><ul><li>'''[[Wikipedia:Lounge|Lounge]]'''<li>'''[[Help:Contents|Help section]]'''<li>'''[[Wikimedia:Fundraising|Media]]'''</ul></span>
-  || || [[Image:Nuvola_apps_edu_languages.png|left|thumb|45px|]] || <span><li>'''[[User:Bastique|Bastique]]'''<li>'''[[User:Kerowren|Kerowren]]'''<li>'''[[User:Picaroon9288|Picaroon9288]]'''</span>
+  | [[Image:Nuvola_apps_kdmconfig.png|left|thumb|45px]]|| <span><ul><li>'''[[Wikipedia:Lounge|Lounge]]'''<li>'''[[Help:Contents|Help section]]'''<li>'''[[Wikimedia:Fundraising|Media]]'''</ul></span>
+  || || [[Image:Nuvola_apps_edu_languages.png|left|thumb|45px]]|| <span><li>'''[[User:Bastique|Bastique]]'''<li>'''[[User:Kerowren|Kerowren]]'''<li>'''[[User:Picaroon9288|Picaroon9288]]'''</span>
   |}
  |-
  |<inputbox>
@@ -34,13 +34,13 @@
 |class="MainPageBG" style="width:47%;border:1px solid #abd5f5;background-color:#f5faff;vertical-align:top"|
 
 <div style="border-bottom:1px solid #abd5f5; background-color:#d0e5f5; padding:0.2em 0.5em 0.2em 0.5em; font-size:120%; font-weight:bold;">'''Ihe di mma - Featured Content'''</div>
-<div style="border-bottom:1px solid #abd5f5; padding:0.4em 1em 0.3em 1em; -moz-column-count:3; column-count:3;">
+<div style="border-bottom:1px solid #abd5f5; background-color:lavender; padding:0.4em 1em 0.3em 1em;">
 <!-- Most Done Pages -->
- {| cellpadding="0" cellspacing="0" style="margin: 0em 0em 0em 0; width: 100%"
+ {| style="width:100%;"
  |-
- |<li> [[Wikipedia:Lounge|Community]] || <li> [[Biafra]] || <li> [[Ezigbo ulo uka Jesu]]
+ |<li>[[Wikipedia:Lounge|Community]]||<li>[[Biafra]]||<li>[[Ezigbo ulo uka Jesu]]
  |-
- |<li> [[Wikipedia:Sandbox|Sandbox]] || <li> [[Chineke]] || <li> [[Chinua Achebe]]
+ |<li>[[Wikipedia:Sandbox|Sandbox]]||<li>[[Chineke]]||<li>[[Chinua Achebe]]
  |}
 
 <!-- span style="width:100%;font-size:95%;color:#000">
@@ -53,26 +53,22 @@
 *[[Ezigbo ulo uka Jesu|Ezigbo...]]
 *[[Chinua Achebe]] 
 </span -->
-
 <!-- End Most Done -->
-
 </div>
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff"
 ! <h2 style="margin:0;background-color:#cedff2;font-size:110%;font-weight:bold;border:1px solid #a3b0bf;text-align:left;color:#000;padding:0.2em 0.4em;">Mee ukwu - Needing Expansion</h2>
 |-
-|style="color:#000"|'''Pages özö - Other pages''':
-
+|style="color:#000; width:100%"|
  {|
  |-
- |<li> [[Ndi Igbo]] ||<li> [[Owerri]]
+ | <li>[[African American]]||<li>[[MediaWiki]]||<li>[[Ndi Igbo]]
  |-
- |<li> [[Chukwu]] ||<li> [[Bekee]]
+ | <li>[[Indian Ocean]]||<li>[[Owerri]]||<li>[[UTC]]
  |-
- |<li> [[Umaru Yar'Adua]] ||<li> [[Virginia Etiaba]]
+ |<li>[[Umaru Yar'Adua]]||<li>[[Liberalism]]||<li>[[PDP]]
  |-
- |<li> [[People's Democratic Party]] ||<li> [[Igbo-ukwu]]
+ | <li>[[United States]]||<li>[[Naija]]||<li>[[Chukwu]]
  |}
-
 |}
 |}
 ==Project nwanne Wikipedia== <!--Wikipedia's sister projects-->
