@@ -1,3 +1,4 @@
+<!--
 {{Infobox President
 | name=Atiku Abubakar
 | image=Wwwjjan3.jpg
@@ -12,6 +13,59 @@
 | party=[[Action Congress]]
 | spouse=
 |}}
+-->
+<table class="infobox vcard" style="width:23em; font-size:90%; text-align:left; padding-left:0.5em; padding-right:0.5em;">
+<tr>
+<td colspan="2" class="fn" style="text-align:center; font-size:140%; font-weight:bold;"><span class="fn">Atiku Abubakar</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;">[[Image:Wwwjjan3.jpg]]<br /></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center; font-size:110%;">
+<hr />
+<div style="background:lavender;">[[Vice President of Nigeria]]</div>
+
+</th>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom:none; text-align:center;"><b>In&#160;office</b><br />
+[[May 29]], [[1999]]&#160;-&#160;[[May 29]], [[2007]]</td>
+</tr>
+<tr>
+<th>President(s)</th>
+
+<td>[[Olusegun Obasanjo]]</td>
+</tr>
+<tr>
+<th>Preceded&#160;by</th>
+<td>[[Mike Akhigbe]]</td>
+</tr>
+<tr>
+<th>Succeeded&#160;by</th>
+<td>[[Goodluck Jonathan]]</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<hr /></td>
+</tr>
+<tr>
+<th>Born</th>
+<td>[[November 25]], [[1946]]<br />
+[[Adamawa State]], [[Nigeria]]</td>
+
+</tr>
+<tr>
+<th>Political&#160;party</th>
+<td>[[Action Congress]]</td>
+</tr>
+
+<tr>
+<th>Religion</th>
+<td>[[Islam]]</td>
+</tr>
+</table>
 '''Alhaji Atiku Abubakar''' (nke amuru Turakin Adamawa), bula onye ''vice president'' Naigeria. Obu onye party [[Action Congress]]
 
 {{stub}}
