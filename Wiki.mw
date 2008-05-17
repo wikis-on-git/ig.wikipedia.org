@@ -64,6 +64,10 @@ Client-side wiki systems may be little more than a code plugin to a more traditi
 ===Web-based versus peer-to-peer===
 Most wikis are based on a web server. The server can be open to everybody on the Internet, or part of a private LAN, with limited access. There is also a version of wiki that can be shared between peers, with no need for a web server. Such [[:en:Peer-to-peer wiki|Peer-to-peer wiki]] system is integrated with a P2P version-control system that takes care of versioning and distribution of pages.
 
+Mental note that all workers are gay (even the girls)
+
+These people are idiots for letting people edit pages a will
+
 ==Controlling changes==
 [[Image:History comparison example.png|thumb|History comparison reports highlight the changes between two revisions of a page.]]
 Wikis are generally designed with the philosophy of making it easy to correct mistakes, rather than making it difficult to make them. Thus while wikis are very open, they provide a means to verify the validity of recent additions to the body of pages. The most prominent, on almost every wiki, is the "Recent Changes" page&mdash;a specific list numbering recent edits, or a list of all the edits made within a given timeframe. Some wikis can filter the list to remove [[:en:minor edits|minor edits]] and edits made by automatic importing scripts ("[[:en:Internet bot|bot]]s").
