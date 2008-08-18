@@ -29,6 +29,13 @@
  </inputbox>
  |}
 
+<center>
+<div style="width:90%;margin-top:.7em;border:1px solid gold;background:#cef2e0;padding:.7em;text-align:center"> 	 
+<big>'''[[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}|{{CURRENTDAY}}]] [[{{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]'''</big>
+* '''Article #{{NUMBEROFARTICLES}} :''' {{Special:Newpages/1}}
+</div>
+</center>
+
 <!-- Start of right-column -->
 |class="MainPageBG" style="width:47%;border:1px solid #abd5f5;background-color:#f5faff;vertical-align:top"|
 
