@@ -35,4 +35,34 @@ Force na kwaga ihe soro acceleration <math> \frac{d(m\mathbf{v})}{dt}</math> e s
   
 
 
-Statistical Mechanics  buru physics e ji a zugutara ngbakote ihe rikpo nne, luelu otu ha ga enwe ike i guzuta ya ka oburu ka o buru na probability density flow na kwachiga ya, nke a ka o ji buru na statistical mechanics putara na physics nke ndi ozo di kali na nkpuru.
+Statistical Mechanics  buru physics e ji a zugutara ngbakote ihe rikpo nne, luelu otu ha ga enwe ike i guzuta ya ka oburu ka o buru na probability density flow na kwachiga ya, nke a ka o ji buru na statistical mechanics putara na physics nke ndi ozo di kali na nkpuru. Otu ora ma kali Statistical mechanics buru ''Thermodynamics'' ma na ezi ama ya buru na Thermodynamics sitere na statistical mechanics were puta.  Ndi umu nwoke nke ukwu guzuputara nguzuputara na statistical mechanics buru ndi otu Ludwig Boltzmann, Albert Einstein, Peter Debye na ndi ozo.  Nkpuru ihe chizutara na statistical mechanics soro Boltzmann Equation:
+
+
+
+<math>\mathbf{S}=k\mathbf{\log}{V}</math>
+
+
+
+
+ebe <math>k</math>&nbsp;=&nbsp;1.3806505(24)&nbsp;×&nbsp;10<sup>−23</sup>&nbsp;[[Joule|J]]&nbsp;Kelvin|K<sup>−1</sup> bu Boltzmann constant na ogugu onu nke ''e'' buru '''log''' noro na equation.  Nkowa ya buru na '''S''', entropy putara na oke ozuzu(system) obuna soro otu microstates di iche iche ya ra lute na phase space.  
+Microstate buru otu oke ozuzu nwere ike i soro.  Di ka, mmadu na a ga ije, o nwere ike i ga uzo nke aka nni, o nwe kwaa ike i ga na uzo aka ekpe ma o bu na enwere ihe di ka aja no chie ya uzo, na nke anwa, microstate a bulu i ga uzo aka nni na i ga na uzo aka ekpe na ha gbara onu ogugu ra lute lue onwe ha.  Ma na obu na o nwe aja nochie nwoke anwa uzo, ha ma enwe zi microstate nke nje uzo aka ekpe.  Ha ma sie
+na entropy nke uzo aka nni kali entropy nke uzo aka ekpe.  Obu na e welu nkpuru ikuku ka o nochie nwoke anwa na ga ije, onye nwe ike i nyoputa na nkpulu ikuku ga cho kali ngabanye na microstate ra kali na ibu.  Otu ha zukedotara equation nke Boltzmann na physics buru i nyotara na: 
+
+
+
+
+<math>d\mathbf{E}=-\mathbf{T}d\mathbf{S}</math>
+
+<math>\frac{\partial{\mathbf{S}}}{\partial{\mathbf{t}}}>0</math>
+
+
+
+
+Ebe '''t''' bu ogugu oge,T buru Temperature na E buru Energy.
+Na equation nke a ka iwu thermodynamics nke abuo(2nd law of thermodynamics) site were puta.  Nke ofu buru na T ga gbadata ma oburu na entropy a gbalite(ma obu na system gbachiri a gbachi).  Nke ibuo buru na entropy kwesiri i gbalite(ma obu na system gbachire a gbachi).  Nya buru na ife di oku na chokali i gbatute oyi, nke anwa buru Thermodynamics nke onye obuna masiri.
+
+
+
+
+
+==Quantum Mechanics==
