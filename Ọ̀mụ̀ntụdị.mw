@@ -5,3 +5,34 @@ Physics bu ihe nmuta eji a muzutara ihe chi kezutara na uwa.  Obi nmetuta ya gba
   
 Otu equation nke a si putara bu na force '''F''' bu nke jikote igwe na magnet, 
 <math>q[\mathbf{v}\times\mathbf{B}]</math> guzute oke turu igwe na '''B''' bu oke turu magnet.  Nime otu nkpulu equation nke a, e nwe ike i nwoputa kwaa otu physics site e kedote ihe di iche iche, maka na ''q'' bu nke egi a guzute electric charge na '''v''' bu nke eji a guzute oso n'ije nke charge ji a gba.  Ihe soro zi nke anwa bu na magnetisim na electricity soro onwe ha.
+
+
+
+
+==nzukere nke kezutere physics==
+
+
+  Physics kezutere na uzo ise nke ezughi ezu. nkezutere ya buru:
+
+==Classical Mechanics==
+
+
+Classical Mechanics buru otu physics nke ezi ya bidoputara na oge ochie.  Ndi ezigbo ukwu nwoke 
+kwachigara ya na nke nbido buru ndi otu Isaac Newton, William Rowan Hamilton, Joseph Lagrange na 
+ndi ozo, ma na ezigbote nna ya(''nke classical mechanics'') buru Issac Newton.  Oo Nya nwa biguzutara 
+obi nzutara equations e ji a zutara classical mechanics. Otutu ihe n'ime classical mechanics di ka:
+
+:<math>\mathbf{F}=\frac{dm\mathbf{v}}{dt}</math>
+
+
+
+Ihe soro ya bu na '''F''' bu force, ''m'' buru mass na ''v'' buru velocity.  Nya buru na
+Force na kwaga ihe soro acceleration <math> \frac{dm\mathbf{v}}{dt}</math> e so.  Nke a buru nke bu ''Newtons 2nd law of motion'' na o bu kwa nkpuru Classical Mechanics.  Ihe nile ha zugutara na classical mechanics kwesiri soro Iwu Newton nke abuo ma Oo bughi ezi ihe nsoro ya.  E sitere na Iwu nke abuo, ti zubata ozuzu momentum buru <math>p=mv</math> na ozuzu energy buru <math>\int\mathbf{F}\cdot d\mathbf{x}</math>, ha zuta ihe nile noro n'ime obi classical mechanics.  Classical mechanics nwere ike nzugutara i zuguta otu ije kpapando na planets lue oke nke obele di ka ugbo ana na football, mana na oke nine putasi ya otu anwa, o zughi ezu.
+
+
+
+==Statistical Mechanics==
+  
+
+
+Statistical Mechanics  buru physics e ji a zugutara ngbakote ihe rikpo nne, luelu otu ha ga enwe ike i guzuta ya ka oburu ka o buru na probability density flow na kwachiga ya, nke a ka o ji buru na statistical mechanics putara na physics nke ndi ozo di kali na nkpuru.
