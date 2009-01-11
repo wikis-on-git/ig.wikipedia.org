@@ -22,12 +22,12 @@ kwachigara ya na nke nbido buru ndi otu Isaac Newton, William Rowan Hamilton, Jo
 ndi ozo, ma na ezigbote nna ya(''nke classical mechanics'') buru Issac Newton.  Oo Nya nwa biguzutara 
 obi nzutara equations e ji a zutara classical mechanics. Otutu ihe n'ime classical mechanics di ka:
 
-<math>\mathbf{F}=\frac{dm\mathbf{v}}{dt}</math>
+<math>\mathbf{F}=\frac{d(m\mathbf{v})}{dt}</math>
 
 
 
 Ihe soro ya bu na '''F''' bu force, ''m'' buru mass na ''v'' buru velocity.  Nya buru na
-Force na kwaga ihe soro acceleration <math> \frac{dm\mathbf{v}}{dt}</math> e so.  Nke a buru nke bu ''Newtons 2nd law of motion'' na o bu kwa nkpuru Classical Mechanics.  Ihe nile ha zugutara na classical mechanics kwesiri soro Iwu Newton nke abuo ma Oo bughi ezi ihe nsoro ya.  E sitere na Iwu nke abuo, ti zubata ozuzu momentum buru <math>p=mv</math> na ozuzu energy buru <math>\int\mathbf{F}\cdot d\mathbf{x}</math>, ha zuta ihe nile noro n'ime obi classical mechanics.  Classical mechanics nwere ike nzugutara i zuguta otu ije kpapando na planets lue oke nke obele di ka ugbo ana na football, mana na oke nine putasi ya otu anwa, o zughi ezu.
+Force na kwaga ihe soro acceleration <math> \frac{d(m\mathbf{v})}{dt}</math> e so.  Nke a buru nke bu ''Newtons 2nd law of motion'' na o bu kwa nkpuru Classical Mechanics.  Ihe nile ha zugutara na classical mechanics kwesiri soro Iwu Newton nke abuo ma Oo bughi ezi ihe nsoro ya.  E sitere na Iwu nke abuo, ti zubata ozuzu momentum buru <math>p=mv</math> na ozuzu energy buru <math>\int\mathbf{F}\cdot d\mathbf{x}</math>, ha zuta ihe nile noro n'ime obi classical mechanics.  Classical mechanics nwere ike nzugutara i zuguta otu ije kpapando na planets lue oke nke obele di ka ugbo ana na football, mana na oke nine putasi ya otu anwa, o zughi ezu.
 
 
 
