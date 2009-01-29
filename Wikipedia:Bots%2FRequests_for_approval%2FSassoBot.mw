@@ -1,0 +1,26 @@
+<noinclude>[[Category:Wikipedia bot requests for approval|{{#titleparts:{{PAGENAME}}|1|3}}]]</noinclude>
+==[[User:SassoBot|SassoBot]]==
+{{Bot ohu|SassoBot}} 
+
+'''Operator:''' [[User:Djsasso|Djsasso]]
+
+<!--Automatic: Specify whether supervised or unsupervised -->
+<!--Manually Assisted: User must manually confirm every change -->
+'''Automatic or Manually Assisted:''' Automatic
+
+<!--Programming Language: The computer language that this bot will be written in. E.g. Python, Java, C, VB, AutoWikiBrowser. NOT English etc -->
+'''[[:en:Programming Language|Programming Language]](s):''' pywikipedia/interwiki.py
+
+<!--Please keep Function Summary SHORT-->
+'''Function Summary:''' interwiki
+
+'''Edit period(s)''' ''(e.g. Continuous, daily, one time run)''''':''' daily
+
+<!--For existing bots only-->
+'''Already has a bot flag''' ''(Y/N)''''':''' Yes I have flags on als, an, ar, ba, be, en, eo, fr, he, io, it, ru, simple, sw, vec, vo, zh, zh-yue, zu.
+
+<!--List full function details here-->
+'''Function Details:''' Update/add/remove interwiki links.
+
+===Discussion===
+<!-- This is not a vote.  It is a discussion -->
