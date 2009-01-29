@@ -1,0 +1,71 @@
+{{botnav}}
+
+* '''ig:''' Page nkena bu nga onye nwere '''[[:en:Wikipedia:Bots|bot]]''' ochoro ekwe bia na Wikipedia, kwesiri tinye aha bot ahu, t'enye ya '''bot-status'''. Onye ahu kwesiri ma otu agee mee ya (guo ya!). Anyi nile gi me vote mana ekwe bot ahu nwe ''bot-status''. Ma bot nwetee vote, onye nwe ya kwesiri tinye aha ya la '''[[m:Requests_for_bot_status]]''' page ta '''nde-ukwu''' ma, nye bot ahu status.
+* '''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]] (but not [[m:bot policy#Global_bots|global bots]]). Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.
+
+{{/Header}}
+
+==Mgbe igi vote==
+'''Nwere otu picture nkee tinye vote gi''' (''use one of these pictures to vote''):
+ [[Image:Symbol_support_vote.svg|16px]] <nowiki>[[Image:Symbol_support_vote.svg|16px]]</nowiki> [[Image:Symbol_oppose_vote.svg|16px]] <nowiki>[[Image:Symbol_oppose_vote.svg|16px]]</nowiki>
+ [[Image:Symbol_neutral_vote.svg|16px]] <nowiki>[[Image:Symbol_neutral_vote.svg|16px]]</nowiki> [[Image:Symbol_unsupport_vote.svg|16px]] <nowiki>[[Image:Symbol_unsupport_vote.svg|16px]]</nowiki>
+
+:[[Image:Symbol_support_vote.svg|16px]] '''Support''' - he mere isi kwe a lee bot bia (''why you support the request'')
+::[[Image:Symbol_unsupport_vote.svg|16px]] '''Discard''' - he mere isi cho i wefu vote gi (''why you are removing your support'')
+
+:[[Image:Symbol_oppose_vote.svg|16px]] '''Oppose''' - he mere ikweghi a lee bot bia (''why you oppose the nominee'')
+
+:[[Image:Symbol_neutral_vote.svg|16px]] '''Neutral''' - he ichoro iku maka uwa na bot ahu (''what you have to say about the matter'') <big>←</big> explanation is mandatory with this vote
+
+<div class="toccolours" style="font-size:smaller;">'''You can also use these templates:'''<span style="margin: 1em;" class="resolved"><span style="border: 1px solid #aaa; background: #fff; padding: 6px; margin-right: .5em;">[[Image:Symbol_support_vote.svg|16px|Ee]] [[Template:Accept|&nbsp;Accept]]</span>{{#if: {{{1|}}}|<span style="font-size: smaller;">{{{1}}}</span>}}<nowiki>{{subst:accept |</nowiki>''he ichoro iku''<nowiki>}}</nowiki></span><span style="margin: 1em;" class="resolved"><span style="border: 1px solid #aaa; background: #fff; padding: 6px; margin-right: .5em;">[[Image:Symbol_oppose_vote.svg|16px|Uh-uh]] [[Template:Oppose|&nbsp;Oppose]]</span>{{#if: {{{1|}}}|<span style="font-size: smaller;">{{{1}}}</span>}}<nowiki>{{subst:oppose |</nowiki>''he ichoro iku''<nowiki>}}</nowiki></span><span style="margin: 1em;" class="resolved"><span style="border: 1px solid #aaa; background: #fff; padding: 6px; margin-right: .5em;">[[Image:Symbol_neutral_vote.svg|16px|Amaghi'm]] [[Template:Neutral|&nbsp;Comment]]</span>{{#if: {{{1|}}}|<span style="font-size: smaller;">{{{1}}}</span>}}<nowiki>{{subst:neutral |</nowiki>''he ichoro iku''<nowiki>}}</nowiki></span><span style="margin: 1em;" class="resolved"><span style="border: 1px solid #aaa; background: #fff; padding: 6px; margin-right: .5em;">[[Image:Symbol_unsupport_vote.svg|16px|Wefu]] [[Template:Discard|&nbsp;Discard]]</span>{{#if: {{{1|}}}|<span style="font-size: smaller;">{{{1}}}</span>}}<nowiki>{{subst:discard |</nowiki>''he ichoro iku''<nowiki>}}</nowiki></span></div>
+
+==Ndi bots e mere nominate==
+<center>
+Time bu '''{{FULLDATE|type=wiki}}'''
+{| style="margin: 0 auto; font-size:smaller; background:none;"
+|'''<span class="plainlinks">[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAMEE}}|action=purge}} Purge page cache]</span> mgbe nominations adigi updated.'''
+|}</center>
+<!-- Tinye bots idi mee nominate n'okpuru line nke - Keep bots for nomination below this line-->
+<hr>
+
+<!--{{BRFA|StigBot||Open}}
+
+{{BRFA|AlleborgoBot||Open}}-->
+{{BRFA|Kwjbot||Open}}
+{{BRFA|Synthebot||Open}}
+
+== Request for removal ==
+
+* [[user:Byrialbot]] is inactive for more then 6 months. Last edit made on this or any other wikipedia is made in august 2007. The bot was only a few months active. And has made here 46 edits. [[User:Carsrac|Carsrac]] 07:52, 28 June 2008 (UTC)
+:'''Support''' - this bot has been inactive since last year. -- [[User talk:Kerowren|Kerowren]]&nbsp;<sup>([[User talk:Kerowren|talk]]&nbsp;'''·''' [[Special:Contributions/Kerowren|contribs]])</sup> 20:09, 27 July 2008 (UTC)
+:'''Support''' so that we can open up a space in the quota system. I suggest putting a request in to a steward to have this taken care of. -[[User:Djsasso|Djsasso]] 03:20, 29 January 2009 (UTC)
+
+* [[User:YonaBot]] is also inactive for more then 6 months and has only done 7 edits. [[User:CarsracBot|CarsracBot]] 10:10, 28 June 2008 (UTC)
+: The owner reacted [[:en:User_talk:Carsrac#bot_on_ig|on my english talk page]] [[User:Carsrac|Carsrac]] 17:19, 28 June 2008 (UTC)
+:'''Support''' - this bot has been inactive since last year. -- [[User talk:Kerowren|Kerowren]]&nbsp;<sup>([[User talk:Kerowren|talk]]&nbsp;'''·''' [[Special:Contributions/Kerowren|contribs]])</sup> 20:09, 27 July 2008 (UTC)
+:'''Support''' so that we can open up a space in the quota system. I suggest putting a request in to a steward to have this taken care of. -[[User:Djsasso|Djsasso]] 03:20, 29 January 2009 (UTC)
+
+* [[User:Robbot]] is inactive at the moment, but the owner is a steward and it is wise not to remove the flag. That he has still has a bot with a botflag here to do the things stewards do or for undo the damage other iw bots some times do. [[User:CarsracBot|CarsracBot]] 10:10, 28 June 2008 (UTC)
+: I agree, nevertheless, the bot is active now. -- [[User talk:Kerowren|Kerowren]]&nbsp;<sup>([[User talk:Kerowren|talk]]&nbsp;'''·''' [[Special:Contributions/Kerowren|contribs]])</sup> 20:09, 27 July 2008 (UTC)
+: As a further explanation, this bot is not really inactive, but I usually run it with a whenneeded option. This means that it will not make edits to add just one language, but only if there are several languages to be added at once, if links have to be removed or if they have to be changed to resolve problems. These are all relatively rare occurences, and furthermore I rarely run the bot autonomously, and cannot run it at work, so compared to other bots its activity will be very low. Apart from that, I do not really care about bot flags - I much like to have the right for my bot to do its few edits, but whether it does it with or without a flag I leave wholly up to you. - [[User:Andre Engels|Andre Engels]] 11:27, 6 October 2008 (UTC)
+
+==Global bots==
+Hello. The [[m:Bot policy|standard bot policy]] was updated to allow global bots, which are now technically possible. These are trusted bots that will be given bot access on all wikis that allow global bots (the local policy or request page must explicitly allow them, or they won't get access on this wiki). The [[m:Bot policy#Global_bots|current requirements]] for global bots are:
+* the bot must only maintain interlanguage links or fix double-redirects;
+* the bot must already be active on several wikis, with long-term contributions to back up its trustworthiness.
+
+Does anyone object to allowing global bots on this wiki? I'll update the local policy in a week if there are no objections. Thanks. —<small>[[m:User:Pathoschild|Pathoschild]] 00:44:27, 27 July 2008 (UTC)</small>
+
+: The problem with having global bots is that, with there being so many of them, this wiki's bot quota will quickly fill up, creating an influx of locally unregistered bots for a small article space. I think it might be best to hold off on opening that particular door just yet, at least until we reach the 1000 articles range. -- [[User talk:Kerowren|Kerowren]]&nbsp;<sup>([[User talk:Kerowren|talk]]&nbsp;'''·''' [[Special:Contributions/Kerowren|contribs]])</sup> 20:20, 27 July 2008 (UTC)
+
+:: Okay. —<small>[[m:User:Pathoschild|Pathoschild]] 19:35:41, 04 August 2008 (UTC)</small>
+
+:Just to be sure: by locally unregistered bots, do you mean they didn't create their accounts locally, or you're afraid their edits will be visible in the Recent Changes (they won't)?. Best regards, [[User:Malafaya|Malafaya]] 22:29, 9 October 2008 (UTC)
+
+== See also ==
+* [[:Special:ListUsers/bot|Current bot list]]
+
+----
+
+[[Category:Wikipedia bots]]
+[[en:Wikipedia:Bots/Requests for approval]]
