@@ -59,10 +59,16 @@ na entropy nke uzo aka nni kali entropy nke uzo aka ekpe.  Obu na e welu nkpuru 
 
 
 Ebe '''t''' bu ogugu oge,T buru Temperature na E buru Energy.
-Na equation nke a ka iwu thermodynamics nke abuo(2nd law of thermodynamics) site were puta.  Nke ofu buru na T ga gbadata ma oburu na entropy a gbalite(ma obu na system gbachiri a gbachi).  Nke ibuo buru na entropy kwesiri i gbalite(ma obu na system gbachire a gbachi).  Nya buru na ife di oku na chokali i gbatute oyi, nke anwa buru Thermodynamics nke onye obuna masiri.
+Na equation nke a ka iwu thermodynamics nke abuo(2nd law of thermodynamics) site were puta, ebe ya abuzughi oke equation  agusozue statistical mechanics. Nke anwa buru
 
 
 
 
+<math>d\mathbf{E}=-\mathbf{T}d\mathbf{S}+\mathbf{P}d\mathbf{V}+\mathbf{\mu}d\mathbf{N}</math>
+
+
+ 
+
+ Nke ofu buru na T ga gbadata ma oburu na entropy a gbalite(ma obu na system gbachiri a gbachi).  Nke ibuo buru na entropy kwesiri i gbalite(ma obu na system gbachire a gbachi).  P buru Pressure, V buru volume, $\mu$ buru chemical potential na N buru onu ogugu nkpuru ya(particle).  Nya buru na ife di oku na chokali i gbatute oyi, nke anwa buru Thermodynamics nke onye obuna masiri.
 
 ==Quantum Mechanics==
